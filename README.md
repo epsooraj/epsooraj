@@ -1,6 +1,6 @@
 ### Hey there. 👋
 
-To my Github welcome.
+To my Github welcome. hmm. yess !
 
 - 🔭 Currently working on Server Manager, I am. <br /> (Made public soon will be :metal:)
 - 🌱 Currently learning more Nodejs and Reactjs, I am.
