@@ -9,7 +9,6 @@ To my Github welcome. hmm. yess !
      (Yea. Right there on the left side too, it is.<br />To put something here, have I, hmm?  Yees😄)
 
 <br />
-<br />
 "You must unlearn what you have learned" <br />
 -Yoda
 <!--
