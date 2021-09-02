@@ -7,22 +7,10 @@ To my Github welcome. hmm. yess !
 <!-- - 🔭 Currently working on Server Manager, I am. <br /> (Made public soon will be :metal:) -->
 <!-- - 🌱 Learning more Nodejs and Reactjs, I am. -->
 - 📫 Me, have to reach, hmm?: [epsooraj4@gmail.com](mailto:epsooraj4@gmail.com)
-
 <br />
 "You must unlearn what you have learned" <br />
 -Yoda
-<!--
-**epsooraj/epsooraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-To my page welcome.  Yes, hmmm.
-
-- 🔭 Currently working on python, I am.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+<!-- [![Twitter: Sooraj Ep](https://img.shields.io/twitter/follow/ep_sooraj?style=social)](https://twitter.com/ep_sooraj) -->
+[![Linkedin: epsooraj](https://img.shields.io/badge/-epsooraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/epsooraj/)](https://www.linkedin.com/in/epsooraj/)
+ [![GitHub Sooraj Ep](https://img.shields.io/github/followers/epsooraj?label=follow&style=social)](https://github.com/epsooraj)
